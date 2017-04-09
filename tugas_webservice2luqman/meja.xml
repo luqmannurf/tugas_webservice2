@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<distribusi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="meja.xsd">
+    <barang>
+        <jenis>meja kopi</jenis>
+        <jumlah>10</jumlah>
+        <harga>25000</harga>
+        <distributor>
+            <pt>columbus</pt>
+            <kode>1154054</kode>
+        </distributor>
+        <manajer>
+            <nama>luqman</nama>
+            <nomor>1</nomor>
+        </manajer>
+    </barang>
+    <barang>
+        <jenis>meja makan</jenis>
+        <jumlah>5</jumlah>
+        <harga>250000</harga>
+       <distributor>
+            <pt>borma</pt>
+            <kode>11540544</kode>
+        </distributor>
+        <manajer>
+            <nama>luqmen</nama>
+            <nomor>11</nomor>
+        </manajer>
+    </barang>
+</distribusi>
